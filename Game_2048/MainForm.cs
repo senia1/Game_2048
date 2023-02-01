@@ -21,5 +21,11 @@ namespace Game_2048
         {
             Application.Exit();
         }
+
+        private void rulesOfTheGameToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var rulesForm = new RulesForm();
+            rulesForm.Show();
+        }
     }
 }
