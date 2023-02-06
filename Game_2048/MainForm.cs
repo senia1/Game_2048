@@ -27,5 +27,11 @@ namespace Game_2048
             var rulesForm = new RulesForm();
             rulesForm.Show();
         }
+
+        private void resultsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var resultsForm = new ResultsForm();
+            resultsForm.Show();
+        }
     }
 }
