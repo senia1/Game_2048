@@ -47,11 +47,12 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(65, 47);
+            this.textBox1.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox1.Location = new System.Drawing.Point(30, 28);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox1.Size = new System.Drawing.Size(676, 299);
+            this.textBox1.Size = new System.Drawing.Size(749, 318);
             this.textBox1.TabIndex = 2;
             this.textBox1.Text = resources.GetString("textBox1.Text");
             // 
