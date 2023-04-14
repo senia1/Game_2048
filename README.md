@@ -1,7 +1,7 @@
 # Game_2048
 
 This project is the implementation of the famous game 2048.
-  It was carried out by me as part of the course "Creating с№ window applications" on the Stepik platform.
+  It was carried out by me as part of the course "Creating с# window applications" on the Stepik platform.
 
 I have performed the following tasks:
 
